@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ex017</string>
+    <string-array name="landc">
+        <item>America</item>
+        <item>Africa</item>
+        <item>Europe</item>
+        <item>Asia</item>
+    </string-array>
+
+</resources>
